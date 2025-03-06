@@ -23,7 +23,7 @@ export default function Home() {
         transition={{ duration: 0.6, delay: 0.2 }}
         className="text-lg text-gray-700 mb-4"
       >
-        Retrieve your Toyota window sticker easily.
+        Retrieve your Toyota or Lexus window sticker easily.
       </motion.p>
 
       {/* Button with hover/tap effects */}
@@ -36,7 +36,7 @@ export default function Home() {
           transition={{ duration: 0.5, delay: 0.4 }}
           className="bg-red-600 text-white px-6 py-3 rounded-lg text-lg shadow-md hover:bg-red-700 transition"
         >
-          Get Toyota Window Sticker
+          Get Your Window Sticker
         </motion.button>
       </Link>
     </main>

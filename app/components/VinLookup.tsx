@@ -21,7 +21,7 @@ export default function VinLookup() {
 
   return (
     <div className="p-6 flex flex-col items-center">
-      <h1 className="text-xl font-bold mb-4">Toyota Window Sticker Lookup</h1>
+      <h1 className="text-xl font-bold mb-4">Toyota/Lexus Window Sticker Lookup</h1>
       <input
         type="text"
         placeholder="Enter VIN"
